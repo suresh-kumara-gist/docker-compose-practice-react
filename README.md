@@ -117,3 +117,13 @@ Express + React:
 - http://ericsowell.com/blog/2017/5/16/create-react-app-and-express
 - https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0
 - https://medium.freecodecamp.org/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38
+
+
+
+docker-compose down && docker-compose build && docker-compose up
+docker-compose restart client
+docker-compose exec client
+npm install --save <new_dependency>
+
+
+https://github.com/mrcoles/node-react-docker-compose.git 
